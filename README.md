@@ -1,6 +1,3 @@
 # Connect4
 
-Connect Four is a two-player connection  game, in which the players take turns dropping a colored chip into a seven-column, six-row vertically suspended grid. 
-The chip fall straight down, occupying the lowest available space within the column. 
-The objective of the game is to be the first to form a horizontal, vertical, or diagonal line . 
-The first player can always win by playing the right moves.
+Connect Four is a classic two-player board game where the goal is to be the first to get four of your colored discs in a row, either horizontally, vertically, or diagonally on a grid. Players take turns dropping one of their discs from the top into one of the columns, and the disc will fall to the lowest available position in that column. The game continues until one player successfully connects four discs in a row or the grid is completely filled, resulting in a draw. It's a fun and strategic game that requires planning and skill to outsmart your opponent. You can find a simple implementation of Connect Four on GitHub to play and even customize for your own purposes.
